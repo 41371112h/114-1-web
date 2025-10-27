@@ -31,4 +31,5 @@
 
 作業四
 --
-[Render網址](https://hw3-1-q8h0.onrender.com/)
+[Render網址](https://hw3-1-q8h0.onrender.com/)  
+右下角按鈕開啟AI視窗
