@@ -40,7 +40,7 @@
 專組員姓名與學號  
 蔡欣育 41371112H    
 何佳恩 41371103H  
-線上網站網址（已部署完成） 
+線上網站網址（已部署完成）  
 [Vercel](https://web-nutri-git-main-nnjns-projects.vercel.app)  
 YouTube 影片連結  
 [影片解說](https://youtu.be/csbmBc2-Dp8?si=D_9_JJoDLCMl1uCh)  
