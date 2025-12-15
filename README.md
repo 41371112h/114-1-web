@@ -32,4 +32,16 @@
 作業四
 --
 [Render網址](https://hw3-1-q8h0.onrender.com/)  
-右下角按鈕開啟AI視窗
+右下角按鈕開啟AI視窗  
+
+專題 
+--  
+專題名稱:NutriWeather  
+專組員姓名與學號  
+蔡欣育 41371112H    
+何佳恩 41371103H  
+線上網站網址（已部署完成） 
+[Vercel](https://web-nutri-git-main-nnjns-projects.vercel.app)  YYouTube 影片連結  
+[影片解說](https://youtu.be/csbmBc2-Dp8?si=D_9_JJoDLCMl1uCh)  
+專題程式碼 GitHub Repo 連結  
+[repo連結](https://github.com/41371103hjnh/web-nutri)
